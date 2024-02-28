@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+## Migrate schema
+```bash
+$ npm run generate
+$ npm run migrate
+```
+
 ## Running the app
 
 ```bash

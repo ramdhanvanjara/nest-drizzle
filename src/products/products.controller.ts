@@ -19,7 +19,7 @@ export class ProductsContoller {
   }
 
   @Get()
-  getAllProducts() {
+  getProducts() {
     return this.productServices.getProducts();
   }
 
